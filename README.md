@@ -27,7 +27,7 @@ Especializado em **Business Intelligence, Power BI e análise de dados**, com fo
 ## 💼 Stack Técnica
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Análise & BI** | Power BI (DAX), Metabase, Tableau, Looker, Storytelling |
+| **Análise & BI** | Power BI (DAX Avançado), Metabase, Tableau, Looker, Storytelling |
 | **Engenharia de Dados** | SQL (Avançado), DBT, Snowflake, Databricks, ETL |
 | **Linguagens** | Python (Pandas, Jupyter, NLP), HTML/CSS |
 | **Ferramentas & Cloud** | Git, Azure DevOps, IA Generativa |
